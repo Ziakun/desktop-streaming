@@ -9,6 +9,6 @@ This project implements desktop streaming using the H.265 (HEVC) video compressi
 - Low-latency streaming
 
 ## Prerequisites
-
 - [FFmpeg](https://ffmpeg.org/) with H.265 support
 - [Python](https://www.python.org/) 3.7 or higher
+- [Qt 6.6.0] (https://www.qt.io/)
