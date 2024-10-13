@@ -1,6 +1,6 @@
-# Desktop Share with H.265
+# Desktop Capture with H.265
 
-This project implements desktop share using the H.265 (HEVC) video compression standard. It allows for efficient, high-quality screen sharing with reduced bandwidth requirements compared to older codecs.
+This project implements desktop capture using the H.265 (HEVC) video compression standard. It allows for efficient, high-quality screen sharing with reduced bandwidth requirements compared to older codecs.
 
 ## Features
 
